@@ -1,0 +1,7 @@
+1. mkdir test
+2. cd test
+3. git init
+4. git add file_name
+5. git commit -m "smth" -a
+6. git remote add origin https://github.com/Timofey-Ivantsov/reponame.git
+7. git push origin master
